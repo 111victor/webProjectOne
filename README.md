@@ -1,2 +1,3 @@
 # webProjectOne
-a web project
+A spring web project
+
